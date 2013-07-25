@@ -1,5 +1,5 @@
 .main {
-  background: url(../img/background-chalkboard-green.jpg) no-repeat center center;
+  background: url(../img/log-wall.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -20,7 +20,7 @@
 .row.badge-maker {
   border-radius: 10px;
   padding-top: 10px;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.5);
 }
 
 .row.sharing-options {
